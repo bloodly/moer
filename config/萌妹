@@ -1,0 +1,1 @@
+{"url":"https://yande.re/post?page=%%","type":"image","from":"1","to":"1","charset":"utf8","saveDir":"E:\\moe","selector":[{"$":"$(\".largeimg\")","attr":"href"},{"$":"$(\".directlink.largeimg\")","attr":"href"}],"isPagination":1,"mode":"web"}

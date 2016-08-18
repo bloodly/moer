@@ -1,0 +1,23 @@
+﻿{
+    "name": "moer",
+    "version": "0.0.1",
+    "description": "网页版Nodejs爬虫，可抓取图片和文本",
+    "main": "index.js",
+    "repository": {},
+    "keywords": [
+        "moer",
+        "node.js",
+        "nodejs爬虫"
+    ],
+    "author": "bloodly",
+    "license": "ISC",
+    "dependencies": {
+        "async": "^0.9.0",
+        "iconv-lite": "^0.4.6",
+        "ws": "^0.7.1",
+        "ejs": "^2.2.4",
+        "cheerio": "^0.18.0",
+        "mkdirp": "^0.5.0",
+        "request": "^2.51.0"
+    }
+}
